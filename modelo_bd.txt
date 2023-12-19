@@ -1,0 +1,48 @@
+// Use DBML to define your database structure
+// Docs: https://dbml.dbdiagram.io/docs
+
+Project money_tracker{
+  database_type: 'PostgreSQL'
+  Note: 'Projeto do banco de dados de uma aplicação voltada a controle financeiro'
+}
+
+Table User {
+  id  string [primary key]
+  name string
+  goals list [ref: < Goal.id]
+  expenseTables list [ref: <> ExpenseTables.id]
+}
+
+Table Goal {
+  id  string [primary key]
+  description string
+  value number
+}
+
+Table ExpenseTables {
+  id string [primary key]
+  receipts list [ref: < Receipt.id]
+  type list
+}
+
+Table Tag {
+  id string [primary key]
+  description string
+  type string
+}
+
+Table Notification {
+  id string [primary key]
+  name string
+  status bool
+  hour Date
+  days list
+}
+
+Table Receipt {
+  id string [primary key]
+  type string
+  value number
+  date Date
+  tag list [ref: < Tag.id]
+}
