@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/TeX Live for SUSE Linux) (preloaded format=pdflatex 2023.12.15)  19 DEC 2023 00:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/TeX Live for SUSE Linux) (preloaded format=pdflatex 2023.12.15)  21 DEC 2023 10:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/cmachado/Carlos/uea/12_periodo/topicos_4_devops/relatorio-tecnico-koma/main.tex
-(/home/cmachado/Carlos/uea/12_periodo/topicos_4_devops/relatorio-tecnico-koma/main.tex
+**/home/cmachado/Carlos/uea/12_periodo/topicos_4_devops/projeto/relatorio-tecnico-koma/main.tex
+(/home/cmachado/Carlos/uea/12_periodo/topicos_4_devops/projeto/relatorio-tecnico-koma/main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/share/texmf/tex/latex/koma-script/scrartcl.cls
 Document Class: scrartcl 2022/10/12 v3.38 KOMA-Script document class (article)
@@ -367,54 +367,59 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \openout2 = `jureguinho/capa.aux'.
 
+ (./jureguinho/capa.tex [1
 
-No file jureguinho/capa.tex.
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}])
 \openout2 = `jureguinho/sumario.aux'.
 
-No file jureguinho/sumario.tex.
-\openout2 = `capitulos/cap-01/cap-01.aux'.
-
-(./capitulos/cap-01/cap-01.tex (./capitulos/cap-01/conteudo/1-introducao.tex
-LaTeX Font Info:    Trying to load font information for T1+lmss on input line 1.
+ (./jureguinho/sumario.tex
+LaTeX Font Info:    Trying to load font information for T1+lmss on input line 3.
  (/usr/share/texmf/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)) (./capitulos/cap-01/conteudo/2-steakholders.tex) (./capitulos/cap-01/conteudo/3-objetivo-geral.tex
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 6.
- (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)) (./capitulos/cap-01/conteudo/4-metodologia.tex
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1.
+) (./main.toc
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3.
  (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3.
  (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 1.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 3.
  (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 1.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 3.
  (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 1.
+(Font)              <12> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 1.
+(Font)              <8> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 1.
- [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}
+(Font)              <6> on input line 3.
+)
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+) [2
 
 
 
+]
+\openout2 = `capitulos/cap-01/cap-01.aux'.
+
+ (./capitulos/cap-01/cap-01.tex (./capitulos/cap-01/conteudo/1-introducao.tex) (./capitulos/cap-01/conteudo/2-steakholders.tex) (./capitulos/cap-01/conteudo/3-objetivo-geral.tex
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 6.
+ (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)) (./capitulos/cap-01/conteudo/4-metodologia.tex [3
 
 
 
-
-
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}])) [2]
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}])) [4]
 \openout2 = `capitulos/cap-02/cap-02.aux'.
 
  (./capitulos/cap-02/cap-02.tex (./capitulos/cap-02/conteudo/1-etapa-imersao.tex
@@ -451,70 +456,88 @@ Overfull \hbox (2.76788pt too wide) in alignment at lines 8--49
  [] [] [] 
  []
 
-[3
+[5
 
 
 
-]) (./capitulos/cap-02/conteudo/2-analise.tex [4] [5]
-<images/money-tracker-Use-Case-Diagram.png, id=24, 890.32625pt x 1305.87875pt>
+]) (./capitulos/cap-02/conteudo/2-analise.tex [6] [7]
+<images/money-tracker-Use-Case-Diagram.png, id=31, 889.3225pt x 813.0375pt>
 File: images/money-tracker-Use-Case-Diagram.png Graphic file (type png)
 <use images/money-tracker-Use-Case-Diagram.png>
 Package pdftex.def Info: images/money-tracker-Use-Case-Diagram.png  used on input line 53.
-(pdftex.def)             Requested size: 267.09993pt x 391.76665pt.
+(pdftex.def)             Requested size: 355.72269pt x 325.20924pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/money-tracker-Class-Diagram.png, id=26, 865.2325pt x 922.44624pt>
+<images/money-tracker-Class-Diagram.png, id=33, 865.2325pt x 922.44624pt>
 File: images/money-tracker-Class-Diagram.png Graphic file (type png)
 <use images/money-tracker-Class-Diagram.png>
 Package pdftex.def Info: images/money-tracker-Class-Diagram.png  used on input line 62.
 (pdftex.def)             Requested size: 346.08687pt x 368.97195pt.
-[6]
+[8]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./capitulos/cap-02/conteudo/3-ideacao.tex [7 <./images/money-tracker-Use-Case-Diagram.png>]
-<images/backend_model.png, id=35, 784.9325pt x 531.9875pt>
+) (./capitulos/cap-02/conteudo/3-ideacao.tex
+<images/backend_model.png, id=37, 963.6pt x 710.655pt>
 File: images/backend_model.png Graphic file (type png)
 <use images/backend_model.png>
 Package pdftex.def Info: images/backend_model.png  used on input line 11.
-(pdftex.def)             Requested size: 313.96744pt x 212.79123pt.
- [8 <./images/money-tracker-Class-Diagram.png>]) (./capitulos/cap-02/conteudo/4-prototipacao.tex
-<images/Home.png, id=40, 376.40625pt x 1058.95625pt>
-File: images/Home.png Graphic file (type png)
-<use images/Home.png>
-Package pdftex.def Info: images/Home.png  used on input line 8.
-(pdftex.def)             Requested size: 112.92273pt x 317.68933pt.
-<images/expense.png, id=41, 376.40625pt x 815.045pt>
-File: images/expense.png Graphic file (type png)
-<use images/expense.png>
-Package pdftex.def Info: images/expense.png  used on input line 14.
-(pdftex.def)             Requested size: 112.92273pt x 244.51538pt.
-<images/income.png, id=42, 376.40625pt x 815.045pt>
-File: images/income.png Graphic file (type png)
-<use images/income.png>
-Package pdftex.def Info: images/income.png  used on input line 20.
-(pdftex.def)             Requested size: 112.92273pt x 244.51538pt.
-<images/Notification.png, id=43, 376.40625pt x 815.045pt>
-File: images/Notification.png Graphic file (type png)
-<use images/Notification.png>
-Package pdftex.def Info: images/Notification.png  used on input line 26.
-(pdftex.def)             Requested size: 112.92273pt x 244.51538pt.
-)) [9 <./images/backend_model.png>] [10 <./images/Home.png>] [11 <./images/expense.png> <./images/income.png>] [12 <./images/Notification.png>] (./main.aux (./jureguinho/capa.aux) (./jureguinho/sumario.aux) (./capitulos/cap-01/cap-01.aux) (./capitulos/cap-02/cap-02.aux)) ) 
+(pdftex.def)             Requested size: 385.43317pt x 284.25696pt.
+ [9 <./images/money-tracker-Use-Case-Diagram.png>] [10 <./images/money-tracker-Class-Diagram.png>] [11 <./images/backend_model.png>] [12] [13] [14]) (./capitulos/cap-02/conteudo/4-prototipacao.tex [15]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 5.
+ (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Overfull \hbox (159.51973pt too wide) in paragraph at lines 5--6
+\T1/lmtt/m/n/12 https : / / www . figma . com / file / ONcoN1mFA371DaaP44y0C1 / Montra-[]-[]-[]Expense-[]Tracker-[]UI-[]Kit-[](Community )
+ []
+
+<images/presentation.png, id=64, 179.92218pt x 395.97937pt>
+File: images/presentation.png Graphic file (type png)
+<use images/presentation.png>
+Package pdftex.def Info: images/presentation.png  used on input line 10.
+(pdftex.def)             Requested size: 107.95413pt x 237.58945pt.
+<images/home.png, id=65, 395.97937pt x 515.67656pt>
+File: images/home.png Graphic file (type png)
+<use images/home.png>
+Package pdftex.def Info: images/home.png  used on input line 16.
+(pdftex.def)             Requested size: 237.58945pt x 309.40831pt.
+<images/receipts.png, id=66, 395.97937pt x 399.74344pt>
+File: images/receipts.png Graphic file (type png)
+<use images/receipts.png>
+Package pdftex.def Info: images/receipts.png  used on input line 22.
+(pdftex.def)             Requested size: 237.58945pt x 239.8479pt.
+<images/notification.png, id=67, 609.02531pt x 399.74344pt>
+File: images/notification.png Graphic file (type png)
+<use images/notification.png>
+Package pdftex.def Info: images/notification.png  used on input line 28.
+(pdftex.def)             Requested size: 365.418pt x 239.8479pt.
+<images/expense-table.png, id=68, 401.24907pt x 433.62pt>
+File: images/expense-table.png Graphic file (type png)
+<use images/expense-table.png>
+Package pdftex.def Info: images/expense-table.png  used on input line 35.
+(pdftex.def)             Requested size: 240.75128pt x 260.17401pt.
+<images/graphic.png, id=69, 403.5075pt x 431.36156pt>
+File: images/graphic.png Graphic file (type png)
+<use images/graphic.png>
+Package pdftex.def Info: images/graphic.png  used on input line 41.
+(pdftex.def)             Requested size: 242.10637pt x 258.81892pt.
+)) [16 <./images/presentation.png>] [17 <./images/home.png>] [18 <./images/receipts.png> <./images/notification.png>] [19 <./images/expense-table.png> <./images/graphic.png>] (./main.aux (./jureguinho/capa.aux) (./jureguinho/sumario.aux) (./capitulos/cap-01/cap-01.aux) (./capitulos/cap-02/cap-02.aux)) ) 
 Here is how much of TeX's memory you used:
- 7759 strings out of 476025
- 181821 string characters out of 5798998
+ 7842 strings out of 476025
+ 183406 string characters out of 5798998
  1876388 words of memory out of 5000000
- 28065 multiletter control sequences out of 15000+600000
- 554168 words of font info for 55 fonts, out of 8000000 for 9000
+ 28134 multiletter control sequences out of 15000+600000
+ 563498 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,19n,106p,10676b,477s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmro12.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on main.pdf (12 pages, 369633 bytes).
+ 108i,19n,106p,10684b,477s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmro12.pfb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb>
+Output written on main.pdf (19 pages, 519255 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 125 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
