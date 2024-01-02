@@ -13,7 +13,7 @@
         "ecmaVersion": "latest",
         "sourceType": "module",
         "project": ["tsconfig.json"],
-        "tsconfigRootDir": "desenvolvimento/atta-backend/"
+        "tsconfigRootDir": "/home/cmachado/Carlos/uea/12_periodo/topicos_4_devops/projeto/desenvolvimento/atta-backend/"
     },
     "plugins": [
         "@typescript-eslint"
