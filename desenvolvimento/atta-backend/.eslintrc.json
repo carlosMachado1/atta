@@ -12,7 +12,8 @@
     "parserOptions": {
         "ecmaVersion": "latest",
         "sourceType": "module",
-        "project":["./desenvolvimento/atta-backend/tsconfig.json"]
+        "project": ["tsconfig.json"],
+        "tsconfigRootDir": "desenvolvimento/atta-backend/"
     },
     "plugins": [
         "@typescript-eslint"
